@@ -1,0 +1,87 @@
+{
+    "vehicles": [
+      {
+        "type": "Trucks",
+        "items": [
+          {
+            "name": "Electric truck",
+            "image": "https://png.pngtree.com/png-vector/20190214/ourmid/pngtree-vector-truck-icon-png-image_448971.jpg",
+            "tag": "electric truck"
+          },
+          {
+            "name": "Tipper",
+            "image": "https://png.pngtree.com/png-vector/20190214/ourmid/pngtree-vector-truck-icon-png-image_448971.jpg",
+            "tag": "tipper"
+          },
+          {
+            "name": "Transport",
+            "image": "https://png.pngtree.com/png-vector/20190214/ourmid/pngtree-vector-truck-icon-png-image_448971.jpg",
+            "tag": "transport"
+          },
+          {
+            "name": "Tanker",
+            "image": "https://png.pngtree.com/png-vector/20190214/ourmid/pngtree-vector-truck-icon-png-image_448971.jpg",
+            "tag": "tanker"
+          },
+          {
+            "name": "Parcel & Courier",
+            "image": "https://png.pngtree.com/png-vector/20190214/ourmid/pngtree-vector-truck-icon-png-image_448971.jpg",
+            "tag": "parcel&courier"
+          },
+          {
+            "name": "Market Load",
+            "image": "https://png.pngtree.com/png-vector/20190214/ourmid/pngtree-vector-truck-icon-png-image_448971.jpg",
+            "tag": "market load"
+          },
+          {
+            "name": "Cement",
+            "image": "https://png.pngtree.com/png-vector/20190214/ourmid/pngtree-vector-truck-icon-png-image_448971.jpg",
+            "tag": "cement"
+          },
+          {
+            "name": "Mining",
+            "image": "https://png.pngtree.com/png-vector/20190214/ourmid/pngtree-vector-truck-icon-png-image_448971.jpg",
+            "tag": "mining"
+          }
+        ]
+      },
+      {
+        "type": "Bus",
+        "items": [
+          {
+            "name": "Volvo 9700",
+            "image": "https://example.com/images/volvo-9700.jpg"
+          },
+          {
+            "name": "Mercedes-Benz Tourismo",
+            "image": "https://example.com/images/mercedes-benz-tourismo.jpg"
+          },
+          {
+            "name": "Scania Touring",
+            "image": "https://example.com/images/scania-touring.jpg"
+          },
+          {
+            "name": "MAN Lion's Coach",
+            "image": "https://example.com/images/man-lions-coach.jpg"
+          },
+          {
+            "name": "Setra TopClass",
+            "image": "https://example.com/images/setra-topclass.jpg"
+          },
+          {
+            "name": "Neoplan Skyliner",
+            "image": "https://example.com/images/neoplan-skyliner.jpg"
+          },
+          {
+            "name": "Ashok Leyland Lynx",
+            "image": "https://example.com/images/ashok-leyland-lynx.jpg"
+          },
+          {
+            "name": "Tata Starbus Ultra",
+            "image": "https://example.com/images/tata-starbus-ultra.jpg"
+          }
+        ]
+      }
+    ]
+  }
+  

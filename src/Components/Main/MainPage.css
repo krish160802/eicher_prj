@@ -1,0 +1,20 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.mainbody{
+    /* text-align: left; */
+    
+    /* margin-top: 0px; */
+    color: rgb(4, 2, 122);
+    font-size: 40px;
+}
+.mainbody p{
+    text-align: center;
+    /* font-size: 90px; */
+}
+
+.mainfoot img{
+    height: 120px;
+}

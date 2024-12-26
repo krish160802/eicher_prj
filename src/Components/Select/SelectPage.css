@@ -1,0 +1,30 @@
+.selectmain {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.container_a{
+    font-size: 30px;
+}
+
+.container_b{
+    margin-top: 8%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+}
+
+.img1{
+    height: 225px;
+}
+
+.img2{
+    height: 190px;
+}
